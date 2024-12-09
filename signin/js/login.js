@@ -23,7 +23,7 @@ function login(){
     loginSuccessAlert.classList.replace("d-none", "d-block");
     loginAlert.classList.replace("d-block", "d-none");
 setTimeout(function(){
-  window.location.href = "../welcome/welcome.html";
+  window.location.href = "./welcome.html";
 },2000);
   }else{
     loginAlert.classList.replace("d-none", "d-block");
