@@ -43,7 +43,7 @@ function addUser(){
         successAlert.classList.replace("d-none", "d-block"); 
         existAlert.classList.replace("d-block","d-none"); 
         
-        setTimeout(function(){ window.location.href="./login.html";
+        setTimeout(function(){ window.location.href="./index.html";
 
         },2000); 
     }
