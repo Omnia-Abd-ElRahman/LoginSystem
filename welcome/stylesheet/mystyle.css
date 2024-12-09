@@ -1,0 +1,12 @@
+body{
+    background-image:url(../img/8456421.jpg);
+    background-size:cover;
+    background-position: center;
+    height: 100vh;
+  }
+  
+  h1{
+    font-family: "Norican", serif;
+    color: #fff;
+    font-size: 60px;
+}
